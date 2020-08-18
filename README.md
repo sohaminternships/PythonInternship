@@ -1,5 +1,4 @@
 # PythonInternship
-Initial Internship Assignment Module for Python
 
 Welcome to Soham's Work from Home Internships.
 
